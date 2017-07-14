@@ -1,2 +1,9 @@
-# testcoding
-seeing how html and css work on GitHub
+<DOCTYPEhtml!>
+  <html>
+    <head>
+      <title>Testcoding</title>
+    </head>
+    <body>
+      <h1>Hello World</h1>
+    </body>
+  </html>
